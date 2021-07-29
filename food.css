@@ -1,0 +1,25 @@
+body{
+    background-color:red;
+}
+.res{
+    background-image: url(img/res.jpg);
+    background-repeat:repeat;
+    background-size: 1000% 1000%;
+    background-color:grey;
+    margin:10px;
+    border-radius:2%;
+}
+hr{
+    background-color:pink;
+    border:dotted;
+    border-radius: 1px;
+}
+div{
+    margin: 0px;
+    border-radius:0px;
+}
+img{
+    background-color: cyan;
+    margin: 0px;
+    border-radius:30%;
+}
